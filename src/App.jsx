@@ -7,6 +7,7 @@ import Skills from './components/Skills';
 import Contact from './components/Contact';
 import Hero from './components/Hero';
 import MyApps from './components/MyApps';
+import DownloadResume from './components/DownloadResume';
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
       <Projects />
       <Skills />
       <Contact />
+      <DownloadResume />
       <Footer />
     </div>
   );
