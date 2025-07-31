@@ -27,7 +27,7 @@ const DownloadResume = () => {
         </p>
 
         <motion.a
-          href="/Parmeet_Singh_Resume.pdf"
+          href="https://drive.google.com/file/d/1RQw3kshTkG-ZRP6RyRkZEytTC53baI--/view?usp=drivesdk"
           download
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
