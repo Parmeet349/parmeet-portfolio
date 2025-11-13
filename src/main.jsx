@@ -6,6 +6,7 @@ import './index.css';
 
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+import { BrowserRouter } from "react-router-dom";
 
 // useEffect(() => {
 //   AOS.init({
@@ -21,6 +22,8 @@ import 'aos/dist/aos.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
   </React.StrictMode>
 );
