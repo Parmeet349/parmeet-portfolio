@@ -197,9 +197,9 @@ export default function PrivacyPolicy() {
               Email:{" "}
               <a
                 className="text-blue-300 hover:underline"
-                href="mailto:contact@parmeetsingh.ca"
+                href="mailto:bangaparmeet.ca@gmail.com"
               >
-                contact@parmeetsingh.ca
+                bangaparmeet.ca@gmail.com
               </a>
             </p>
           </article>
